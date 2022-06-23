@@ -1,0 +1,2 @@
+Prefix plugins/GroupBox/example
+Plugin GroupBox inputfile parameters.txt outputfile groupbox

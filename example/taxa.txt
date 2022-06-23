@@ -1,0 +1,3 @@
+s__Lachnospiraceae_bacterium_28_4
+s__Acetatifactor_muris
+s__Bacteroides_thetaiotaomicron
