@@ -27,12 +27,11 @@ input <- function(inputfile) {
 run <- function() {}
 
 output <- function(outputfile) {
-
 	# Distinct colors:
 library(RColorBrewer)
 colourCount = 4
 getPalette = colorRampPalette(brewer.pal(4, "Paired"))
-
+write.csv(assay, paste(outputfile, "csv", sep="."))
 for(species in species_combined_list) {
 #  print(species)
 #
